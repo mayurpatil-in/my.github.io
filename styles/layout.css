@@ -170,6 +170,10 @@ img {
   font-family: Ubuntu, sans-serif;
   font-weight: 600;
 }
+#header .t3 .TextCol {
+  font-family: Lobster, cursive;
+  font-weight: 500;
+}
 #header h1:hover {
   color: #28a745 !important;
   cursor: pointer;
